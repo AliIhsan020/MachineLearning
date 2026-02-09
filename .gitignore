@@ -24,3 +24,8 @@ Thumbs.db
 
 # DB files
 *.db
+
+# Data files
+*.csv
+*.xlsx
+*.json
